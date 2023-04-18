@@ -1,1 +1,2 @@
 New feature file
+New line to move in cherry branch
