@@ -1,2 +1,3 @@
 Initial revert file
 First rever line with error
+Second line with error that should be removed.
